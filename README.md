@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **zakaria.soussi.important@gmail.com**
 
-- ⚡ Hobbies ** ♟ chess and 🏓 ping-pong**
+- ⚡ Hobbies    **♟ chess and 🏓 ping-pong**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
