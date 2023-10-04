@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
-<h3 align="center">An Ambitious software engineering student with a passion for continuous learning and staying up-to-date with emerging technologies.I'm a competitive programming enthusiast with a love for Big data and AI.</h3>
+<h3 align="center">An aspiring software engineer dedicated to mastering emerging technologies, blending competitive programming skills with a passion for AI and ML</h3>
 
 - 🌱 I’m currently learning **Big Data / AI**
 
