@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakaria</h1>
 <h3 align="center">An aspiring software engineer dedicated to mastering emerging technologies, blending competitive programming skills with a passion for AI and ML</h3>
+<br>
+
 - 🌱 I’m currently learning AI , ML & DL
 
 - 📫 How to reach me **zakaria.soussi.important@gmail.com**
@@ -9,7 +11,7 @@
 <a href="https://linkedin.com/in/zakaria-soussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="zakaria-soussi" height="30" width="40" /></a><a href="https://fb.com/zakaria.soussi.12" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="zakaria.soussi.12" height="30" width="40" /></a><a href="https://codeforces.com/profile/zaksoussi" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="zaksoussi" height="30" width="40" /></a></p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/Haskell-Logo.svg" alt="Haskell" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
@@ -46,9 +48,10 @@
 </p>
 
 <h3 align="center">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zak-soussi&theme=default" alt="zak-soussi" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=zak-soussi&theme=dark" alt="zak-soussi" /></p>
+</div>
+<h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/zak-soussi">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zak-soussi&theme=2077" height="180em" />
